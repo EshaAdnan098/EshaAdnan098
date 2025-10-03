@@ -7,7 +7,7 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn Badge](https://img.shields.io/badge/-Esha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/your-linkedin-username/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshaadnan/)](https://www.linkedin.com/in/eshaadnan/)  
 *(Click above to connect with me on LinkedIn!)*  
 
 ---
