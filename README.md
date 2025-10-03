@@ -12,15 +12,28 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ---
 
-## About Me  
-- Based in Pakistan  
-- Passionate about **Data Visualization & Analytics**  
-- Skilled in **SQL, Excel, Python (Pandas, NumPy, Matplotlib), Power BI**  
-- Experienced in **PivotTables, PivotCharts, Dashboards, and Reports**  
-- Created multiple **Excel & Power BI Dashboards** to analyze business and healthcare data  
-- Worked with **SQL queries** to clean and analyze structured datasets  
-- Applied **Python** (Pandas, NumPy, Matplotlib) for data cleaning, EDA, and visualization  
-- Goal: Keep growing as a Data Analyst while contributing to impactful projects  
+## 📊 About Me  
+- 🌍 Based in Pakistan  
+- 🔎 Passionate about **Data Visualization & Analytics**  
+- 🛠️ Skilled in **SQL, Excel, Python (Pandas, NumPy, Matplotlib), Power BI**  
+- 📈 Experienced in **PivotTables, PivotCharts, Dashboards, and Reports**  
+- 💻 Created multiple **Excel & Power BI Dashboards** to analyze business and healthcare data  
+- 📊 Worked with **SQL queries** to clean and analyze structured datasets  
+- 🐍 Applied **Python** (Pandas, NumPy, Matplotlib) for data cleaning, EDA, and visualization  
+- 🎯 Goal: Keep growing as a Data Analyst while contributing to impactful projects  
+
+---
+
+## 🛠️ Tools & Technologies  
+Here are the tools and technologies I work with:  
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
 
 ---
 
