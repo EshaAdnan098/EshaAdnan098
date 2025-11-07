@@ -24,6 +24,16 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ---
 
+## 🏅 Certifications
+
+[![Cisco Badge](https://images.credly.com/size/220x220/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)][(https://www.credly.com/badges/18b46112-976a-4c5e-b8fd-eaf5fa94f92b/public_url)]
+
+**Cisco Networking Essentials**  
+Issued by [Cisco](https://www.cisco.com) through [Credly](https://www.credly.com)
+
+[View Credential](https://www.credly.com/badges/18b46112-976a-4c5e-b8fd-eaf5fa94f92b/public_url)
+
+
 ## 🛠️ Tools & Technologies  
 Here are the tools and technologies I work with:  
 
